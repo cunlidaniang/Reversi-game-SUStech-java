@@ -8,7 +8,7 @@ run `Reversi.exe/reversi.exe` to start.
 
 ### Layout
 
-![image-20230706165250858](pics\image-20230706165250858.png)
+![image-20230706165250858](pics/image-20230706165250858.png)
 
 click `switchTheme` to choose the default Themes you want, such as MC Theme.
 
