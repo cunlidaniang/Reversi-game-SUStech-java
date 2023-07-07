@@ -8,17 +8,17 @@ run `Reversi.exe/reversi.exe` to start.
 
 ### Layout
 
-![image-20230706165250858](C:\Users\86182\Desktop\betterGithub\Reversi-game-SUStech-java\pics\image-20230706165250858.png)
+![image-20230706165250858](pics\image-20230706165250858.png)
 
 click `switchTheme` to choose the default Themes you want, such as MC Theme.
 
-![image-20230706165442600](C:\Users\86182\Desktop\betterGithub\Reversi-game-SUStech-java\pics\image-20230706165442600.png)
+![image-20230706165442600](pics\image-20230706165442600.png)
 
 Well you can also define and load your own theme by add files into `Reversi/Resources` with fixed format.
 
-![image-20230706165727192](C:\Users\86182\Desktop\betterGithub\Reversi-game-SUStech-java\pics\image-20230706165727192.png)
+![image-20230706165727192]( pics\image-20230706165727192.png)
 
-![image-20230706165713740](C:\Users\86182\Desktop\betterGithub\Reversi-game-SUStech-java\pics\image-20230706165713740.png)
+![image-20230706165713740]( pics\image-20230706165713740.png)
 
 ### How to play?
 
@@ -30,7 +30,7 @@ Note: the server may have been closed, so cannot play online.(sad..)
 
 Now the session starts!
 
-![image-20230707195120755](C:\Users\86182\Desktop\betterGithub\Reversi-game-SUStech-java\pics\image-20230707195120755.png)
+![image-20230707195120755]( pics\image-20230707195120755.png)
 
 You just place the chess in chessboard following the Reversi game rule and enjoy!
 
@@ -38,7 +38,7 @@ Note that you can **Restart** or **UnDo** at anytime.
 
 ### CheatMode
 
-![image-20230707195432559](C:\Users\86182\Desktop\betterGithub\Reversi-game-SUStech-java\pics\image-20230707195432559.png)
+![image-20230707195432559]( pics\image-20230707195432559.png)
 
 once you are in **cheatMode**, you can place any chess anywhere limitlessly.
 
@@ -46,18 +46,18 @@ once you are in **cheatMode**, you can place any chess anywhere limitlessly.
 
 ### Save and Load
 
-![image-20230707201206427](C:\Users\86182\Desktop\betterGithub\Reversi-game-SUStech-java\pics\image-20230707201206427.png)
+![image-20230707201206427]( pics\image-20230707201206427.png)
 
-![image-20230707200353654](C:\Users\86182\Desktop\betterGithub\Reversi-game-SUStech-java\pics\image-20230707200353654.png)
+![image-20230707200353654]( pics\image-20230707200353654.png)
 
 save the session graphically and load any session saved in menu.
 
 ### RankList
 
-![image-20230707200747064](C:\Users\86182\Desktop\betterGithub\Reversi-game-SUStech-java\pics\image-20230707200747064.png)
+![image-20230707200747064]( pics\image-20230707200747064.png)
 
 Here you see that all records of each player ever playing this game. And you can sort them with the priority above.
 
 ## About
 
-![image-20230707201227511](C:\Users\86182\Desktop\betterGithub\Reversi-game-SUStech-java\pics\image-20230707201227511.png)
+![image-20230707201227511]( pics\image-20230707201227511.png)
