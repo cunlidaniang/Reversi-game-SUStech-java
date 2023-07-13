@@ -1,6 +1,6 @@
 # Reversi-game-SUStech-java 
 
-Welcome, here is the Reversi game! Full marks project @2021Fall CS102A Sustech
+Welcome, here is the Reversi game! Full marks project @2021Fall CS102A SUSTech
 
 ### Quick Start
 
